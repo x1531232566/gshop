@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e8088fd-8c34-4c45-8c7c-2fbae37d2a37" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../gshop-client_final" beforeDir="false" afterPath="$PROJECT_DIR$/../gshop-client_final" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>数据库连接成功</find>
+      <find>image_path</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1YqEFWJuEGfsBjKjUE7EYrqyO6H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gshop-client_final" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.OGNL" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e8088fd-8c34-4c45-8c7c-2fbae37d2a37" name="Default Changelist" comment="" />
+      <created>1583218332516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583218332516</updated>
+      <workItem from="1583218333709" duration="780000" />
+      <workItem from="1583220106620" duration="1163000" />
+      <workItem from="1583381909778" duration="3538000" />
+      <workItem from="1583398789004" duration="64000" />
+      <workItem from="1583483529240" duration="2076000" />
+      <workItem from="1583487007451" duration="1636000" />
+      <workItem from="1583558485615" duration="671000" />
+      <workItem from="1583571267322" duration="1091000" />
+      <workItem from="1583572383582" duration="2000" />
+      <workItem from="1583661647385" duration="616000" />
+      <workItem from="1583733045114" duration="827000" />
+      <workItem from="1584090956689" duration="124000" />
+    </task>
+    <task id="LOCAL-00001" summary="test1">
+      <created>1583488265566</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583488265566</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+    <MESSAGE value="test1" />
+    <option name="LAST_COMMIT_MESSAGE" value="test1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1170" y="219" key="FileChooserDialogImpl" timestamp="1583661669473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1170" y="219" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583661669473" />
+    <state x="343" y="63" key="SettingsEditor" timestamp="1583733252162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="343" y="63" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583733252162" />
+    <state x="1057" y="304" key="com.intellij.ide.util.TipDialog" timestamp="1583733047783">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1057" y="304" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583733047783" />
+  </component>
+</project>
